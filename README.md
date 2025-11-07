@@ -267,11 +267,3 @@ Notes, tips and warnings
 - Do not commit API keys or other secrets to the repository.
 - BSA color detection: the README references the BSA algorithm because your color_llm_solver.py mentions it — tune its parameters inside the script if you want different sensitivity.
 
-How I used your code to produce this README
--------------------------------------------
-I reviewed the commands and scripts you posted, consolidated them into a single reference README, standardized common environment usage (PROJECT/BEST), removed the raw API key (do not commit it), and added short explanations and flag lists for each major script so anyone running your project can reproduce your flow.
-
-What I can do next
-------------------
-- If you want, I can commit this README.md into your repository and open a PR. Provide the GitHub repo (owner/repo) and the branch you want the README added to, and I will create the PR containing this README.
-- I can also generate small example wrappers (rclpy or systemd) to boot particular scripts, or create a consolidated launch shell for commonly used runs.
