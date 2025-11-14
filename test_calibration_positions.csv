@@ -1,0 +1,5 @@
+name,pixel_u,pixel_v,robot_x,robot_y,robot_z,robot_r
+test_point_1,134,192,0.0,0.0,0.0,0.0
+test_point_2,406,85,0.0,0.0,0.0,0.0
+test_point_3,517,355,0.0,0.0,0.0,0.0
+test_point_4,249,465,0.0,0.0,0.0,0.0
